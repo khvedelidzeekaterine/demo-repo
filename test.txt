@@ -2,5 +2,9 @@ ekaterine
 
 lak
 
+<<<<<<< HEAD
 
 eeeeeeeeeeeeeee
+=======
+jan
+>>>>>>> 088727be8ac3c478c9be3af0ce1d9f2f1b32e27f
